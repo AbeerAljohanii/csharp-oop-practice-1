@@ -52,7 +52,6 @@ Summary:
 Total Students: 3
 ```
 
-## Practice 2
 
 ### **Concepts Covered:**
 
@@ -64,6 +63,8 @@ Total Students: 3
 6. **Static Method**: `DisplayTotalStudents()` to show the total number of students.
 
 This assignment provides a practical, hands-on approach to understanding how classes, objects, constructors, methods, and static members work together in C#.
+
+## Practice 2
 
 ### **Assignment: Building a Simple Bank Account System**
 
