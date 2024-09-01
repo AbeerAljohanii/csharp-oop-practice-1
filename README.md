@@ -1,4 +1,4 @@
-### **Assignment: Creating a Simple Student Management System**
+##Practice 1: Creating a Simple Student Management System**
 
 **Objective:** This assignment is designed to help you understand the concepts of classes, objects, constructors, methods, and static members in C#. You will create a simple student management system that demonstrates these concepts.
 
@@ -64,9 +64,7 @@ Total Students: 3
 
 This assignment provides a practical, hands-on approach to understanding how classes, objects, constructors, methods, and static members work together in C#.
 
-## Practice 2
-
-### **Assignment: Building a Simple Bank Account System**
+## Practice 2: Building a Simple Bank Account System**
 
 **Objective:** This assignment will help you practice defining classes, creating objects, using constructors, properties, and methods in C#. You will create a simple bank account system that demonstrates these concepts.
 
