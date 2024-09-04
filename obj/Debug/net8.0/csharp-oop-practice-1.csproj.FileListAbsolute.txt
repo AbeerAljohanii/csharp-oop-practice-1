@@ -1,0 +1,15 @@
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\bin\Debug\net8.0\csharp-oop-practice-1.exe
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\bin\Debug\net8.0\csharp-oop-practice-1.deps.json
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\bin\Debug\net8.0\csharp-oop-practice-1.runtimeconfig.json
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\bin\Debug\net8.0\csharp-oop-practice-1.dll
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\bin\Debug\net8.0\csharp-oop-practice-1.pdb
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.AssemblyInfoInputs.cache
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.AssemblyInfo.cs
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.csproj.CoreCompileInputs.cache
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.sourcelink.json
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.dll
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\refint\csharp-oop-practice-1.dll
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.pdb
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\csharp-oop-practice-1.genruntimeconfig.cache
+C:\Users\ra52m\sdaia\csharp-oop-practice-1\obj\Debug\net8.0\ref\csharp-oop-practice-1.dll
