@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StudentManagement
+namespace csharp_oop_practice_1
 {
     public class Student
     {
